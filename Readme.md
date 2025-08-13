@@ -9,6 +9,7 @@ L'apprentissage se fait via un réseau de neurones utilisant la méthode de **De
 Le projet utilise **PyTorch**.
 
 ---
+<img width="1200" height="955" alt="image" src="https://github.com/user-attachments/assets/d353b8f9-0240-42b7-be7d-d12708baaaeb" />
 
 ## Fonctionnalités principales
 
