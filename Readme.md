@@ -24,13 +24,13 @@ Le projet utilise **PyTorch**.
 ## Arborescence du projet
 
 pyRacer/
-├── car.py # Classe Car : physique, état, dessin
-├── dqn.py # Définition du réseau neuronal DQN (PyTorch)
-├── replay_memory.py # Classe ReplayMemory pour expériences
-├── main.py # Boucle principale, apprentissage DQN
-├── test_rocm.py # Test de l’installation PyTorch ROCm
-├── requirements.txt # Liste des dépendances Python
-└── README.md # Ce fichier
+├── car.py # Classe Car : physique, état, dessin  
+├── dqn.py # Définition du réseau neuronal DQN (PyTorch)  
+├── replay_memory.py # Classe ReplayMemory pour expériences  
+├── main.py # Boucle principale, apprentissage DQN  
+├── test_rocm.py # Test de l’installation PyTorch ROCm  
+├── requirements.txt # Liste des dépendances Python  
+└── README.md # Ce fichier  
 
 ---
 
