@@ -23,7 +23,7 @@ Le projet utilise **PyTorch**.
 
 ## Arborescence du projet
 
-pyRacer/
+pyRacer/  
 ├── car.py # Classe Car : physique, état, dessin  
 ├── dqn.py # Définition du réseau neuronal DQN (PyTorch)  
 ├── replay_memory.py # Classe ReplayMemory pour expériences  
